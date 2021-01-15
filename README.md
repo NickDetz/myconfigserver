@@ -1,0 +1,2 @@
+# myconfigserver
+SomethingforRevature
